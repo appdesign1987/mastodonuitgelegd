@@ -27,7 +27,7 @@ Twitter gebruikt inkomsten uit reclame om het geld, wat gebruikt wordt om Twitte
 
 ![Twitter-image](/mastodonuitgelegd/images/image003.png)
 
-Recentelijk zijn er een aantal dingen mis gegaan bij Twitter — masa-onstlagen, publieke vernederingen, etc.
+Recentelijk zijn er een aantal dingen mis gegaan bij Twitter — massa-onstlagen, publieke vernederingen, etc.
 Verschillende mensen zijn daardoor verhuisd naar een ander netwerk. Een netwerk waar de sfeer vriendelijker en gemoedelijker is dan je wellicht gewend bent.
 Laat mij, aan de hand van onderstaande uitleg, vertellen wat dit netwerk is en hoe jij hier ook op kan komen.
 
@@ -36,7 +36,7 @@ Laat mij, aan de hand van onderstaande uitleg, vertellen wat dit netwerk is en h
 </p>
 Dit is Mastodon. 
 
-In plaats van een grote website, bestaat het uit een hoop kleinere websites, verbonden magische internet-verbindingen.
+In plaats van een grote website, bestaat het uit een groot aantal kleinere websites, verbonden via magische internet-verbindingen.
 ![Mastodon-image](/mastodonuitgelegd/images/image005.png)
 
 Die magische intenet-verbindingen zorgen ervoor dat elke Mastodon website met elkaar verbonden zijn. Waardoor je kan zien wat iedereen zegt op alle Mastodon websites.
