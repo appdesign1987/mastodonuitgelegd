@@ -58,4 +58,5 @@ Als je op Twitter wilt aanmelden ga je natuurlijk gewoon naar twitter.com
 Maar voor Mastodon is er niet een algehele website waarop je, je kan aanmelden. Dit komt opnieuw omdat alle Mastodon websites op zich zelf staan.
 Er zijn daarom vele websites verschillende websites waarop je, je kan aanmelden
 
+![Mastodon-kpop-fans](/mastodonuitgelegd/images/image024.jpg) voor k-pop fans
 
