@@ -46,8 +46,7 @@ Daarnaast draaien de meest Mastodon websites op basis van donaties, ze zorgen al
 ---
 
 Er zijn een aantal Mastodon websites die zich zelf hebben afgesneden van het algehele Mastodon netwerk.
-Over deze websites wordt doorgaans niet gesproken. Maar zijn wel te vinden op het internet via Google.
-
+Over deze websites wordt doorgaans niet gesproken. 
 ![afgesneden-Mastodon-websites-image](/mastodonuitgelegd/images/image022.jpg)
 
 ---
