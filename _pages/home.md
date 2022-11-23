@@ -8,6 +8,7 @@ De december maand geeft ons de gelegenheid om met vrienden en familie te praten 
 Dit jaar is natuurlijk de vraag: “wat is Mastodon?”.
 Hier is een snelle uitleg die je kan gebruiken om het aan je ooms/tantes en moeder uit te leggen:
 <br>
+
 ---
 
 
