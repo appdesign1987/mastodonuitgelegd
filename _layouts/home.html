@@ -37,7 +37,8 @@
 
       <div class="wrapper-main">
         <div id="main" role="main" class="container">
-          {{ home.md }}
+        {% assign home = site.pages | where: 'name','home.md' %}
+{{home}}
         </div>
       </div>
 
