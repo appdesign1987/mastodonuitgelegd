@@ -17,7 +17,7 @@ Het is een grote website, En de mensen die het bouwen betalen een hoop geld om h
 Twitter gebruikt inkomsten uit reclame om het geld, wat gebruikt wordt om Twitter draaiend te houden, bij elkaar te krijgen.
 
 
-![Twitter-image](/images/image003.png)
+![Twitter-image](/mastodonuitgelegd/images/image003.png)
 
 Recentelijk zijn er een aantal dingen mis gegaan bij Twitter — masa-onstlagen, publieke vernederingen, etc.
 Verschillende mensen zijn daardoor verhuisd naar een ander netwerk. Een netwerk waar de sfeer vriendelijker en gemoedelijker is dan je wellicht gewend bent.
