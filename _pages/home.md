@@ -72,4 +72,7 @@ Je kan namelijk iedereen vanaf elke Mastodon website volgen. Als je een account 
 In een notendop is dit Mastodon. Het lijkt op Twitter maar het is net even anders.
 <p>Omdat het uit aparte websites bestaat die op zich zelf staand zijn. 
 </p>
-Maar waar bij je even goed de mogelijkheid hebt om mensen die een account op een andere website hebben te volgen en berichten te sturen. Daarnaast moet je niet vergeten dat nagenoeg elke server leeft op donaties en geheel vrijwillig wordt onderhouden. Er zit dus geen groot bedrijf achter zoals bij Twitter.
+<p>Maar waar bij je even goed de mogelijkheid hebt om mensen die een account op een andere website hebben te volgen en berichten te sturen. 
+</p>
+Daarnaast moet je niet vergeten dat nagenoeg elke server leeft op donaties en geheel vrijwillig wordt onderhouden. 
+Er zit dus geen groot bedrijf achter zoals bij Twitter.
