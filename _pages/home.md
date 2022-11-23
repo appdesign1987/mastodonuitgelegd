@@ -49,6 +49,7 @@ Er zijn een aantal Mastodon websites die zich zelf hebben afgesneden van het alg
 Over deze websites wordt doorgaans niet gesproken. Maar zijn wel te vinden op het internet via Google.
 
 ![afgesneden-Mastodon-websites-image](/mastodonuitgelegd/images/image022.jpg)
+
 ---
 
 De grootste uitdaging doorgaans met Mastodon is een website vinden om je aan te melden.
