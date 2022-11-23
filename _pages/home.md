@@ -41,3 +41,17 @@ Daarnaast draaien de meest Mastodon websites op basis van donaties, ze zorgen al
 
 ---
 
+Er zijn een aantal Mastodon websites die zich zelf hebben afgesneden van het algehele Mastodon netwerk.
+Over deze websites wordt doorgaans niet gesproken. Maar zijn wel te vinden op het internet via Google.
+
+![afgesneden-Mastodon-websites-image](/mastodonuitgelegd/images/image022.jpg)
+---
+
+De grootste uitdaging doorgaans met Mastodon is een website vinden om je aan te melden.
+Als je op Twitter wilt aanmelden ga je natuurlijk gewoon naar twitter.com
+![Twitter-com](/mastodonuitgelegd/images/image023.jpg)
+
+Maar voor Mastodon is er niet een algehele website waarop je, je kan aanmelden. Dit komt opnieuw omdat alle Mastodon websites op zich zelf staan.
+Er zijn daarom vele websites verschillende websites waarop je, je kan aanmelden
+
+
