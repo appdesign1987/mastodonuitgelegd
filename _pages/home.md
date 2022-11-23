@@ -4,11 +4,16 @@ title: Home
 permalink: /
 ---
 
-###### De december maand geeft ons de gelegenheid om met vrienden en familie te praten over ingewikkelde zaken. Of over dingen die je bezig houdt.
+De december maand geeft ons de gelegenheid om met vrienden en familie te praten over ingewikkelde zaken.
+Of over dingen die je bezig houdt.
 Dit jaar is natuurlijk de vraag: “wat is Mastodon?”.
-Hier is een snelle uitleg die je kan gebruiken om het aan je ooms/tantes en moeder uit te leggen:
-<br>
+Hier is een snelle uitleg die je kan gebruiken om het aan je ooms/tantes en moeder uit te leggen: 
+<p><br>
+</p>
 
+  
+  
+    
 ---
 
 
