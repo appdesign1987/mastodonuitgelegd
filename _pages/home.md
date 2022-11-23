@@ -51,7 +51,8 @@ Over deze websites wordt doorgaans niet gesproken. Maar zijn wel te vinden op he
 ![afgesneden-Mastodon-websites-image](/mastodonuitgelegd/images/image022.jpg)
 
 ---
-
+<p><br>
+</p>
 De grootste uitdaging doorgaans met Mastodon is een website vinden om je aan te melden.
 Als je op Twitter wilt aanmelden ga je natuurlijk gewoon naar twitter.com
 ![Twitter-com](/mastodonuitgelegd/images/image023.jpg)
