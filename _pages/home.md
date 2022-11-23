@@ -15,7 +15,8 @@ Hier is een snelle uitleg die je kan gebruiken om het aan je ooms/tantes en moed
   
     
 ---
-
+<p><br>
+</p>
 
 Dit is Twitter. 
 
@@ -31,8 +32,11 @@ Verschillende mensen zijn daardoor verhuisd naar een ander netwerk. Een netwerk 
 Laat mij, aan de hand van onderstaande uitleg, vertellen wat dit netwerk is en hoe jij hier ook op kan komen.
 
 ---
+<p><br>
+</p>
+Dit is Mastodon. 
 
-Dat is Mastodon. In plaats van een grote website, bestaat het uit een hoop kleinere websites, verbonden via een hoop magische internet-verbindingen.
+In plaats van een grote website, bestaat het uit een hoop kleinere websites, verbonden magische internet-verbindingen.
 ![Mastodon-image](/mastodonuitgelegd/images/image005.png)
 
 Die magische intenet-verbindingen zorgen ervoor dat elke Mastodon website met elkaar verbonden zijn. Waardoor je kan zien wat iedereen zegt op alle Mastodon websites.
