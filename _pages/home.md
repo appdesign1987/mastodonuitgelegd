@@ -36,16 +36,16 @@ Laat mij, aan de hand van onderstaande uitleg, vertellen wat dit netwerk is en h
 </p>
 Dit is Mastodon. 
 
-In plaats van een grote website, bestaat het uit een groot aantal kleinere websites, verbonden via magische internet-verbindingen.
+In plaats van een grote website, bestaat het uit een groot aantal kleinere websites, verbonden via slimme internet-verbindingen.
 ![Mastodon-image](/mastodonuitgelegd/images/image005.png)
 
-Die magische intenet-verbindingen zorgen ervoor dat elke Mastodon website met elkaar verbonden zijn. Waardoor je kan zien wat iedereen zegt op alle Mastodon websites.
-Maar niemand bezit Mastodon. Elke website draait onafhankelijk van de ander, en dat gaat vaak allemaal goed.
+Die slimme intenet-verbindingen zorgen ervoor dat je vanaf elke Mastodon website contact kan maken met mensen op een andere Mastodon website.
+Omdat niemand Mastodon bezit draait elke website onafhankelijk van de ander, en dat gaat vaak allemaal goed.
 Daarnaast draaien de meest Mastodon websites op basis van donaties, ze zorgen alle leden van een Mastodon website ervoor dat deze kan bestaan. Op deze manier bezit niemand de website en heeft iedereen het voor het zeggen. Dit gaat 9 van de 10 keer ook helemaal goed.
 
 ---
 
-Er zijn een aantal Mastodon websites die zich zelf hebben afgesneden van het algehele Mastodon netwerk.
+Toch zijn er een aantal Mastodon websites die zich zelf hebben afgesneden van het algehele Mastodon netwerk.
 Over deze websites wordt doorgaans niet gesproken. 
 ![afgesneden-Mastodon-websites-image](/mastodonuitgelegd/images/image022.jpg)
 
