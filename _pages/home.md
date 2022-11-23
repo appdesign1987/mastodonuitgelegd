@@ -56,7 +56,16 @@ Als je op Twitter wilt aanmelden ga je natuurlijk gewoon naar twitter.com
 ![Twitter-com](/mastodonuitgelegd/images/image023.jpg)
 
 Maar voor Mastodon is er niet een algehele website waarop je, je kan aanmelden. Dit komt opnieuw omdat alle Mastodon websites op zich zelf staan.
-Er zijn daarom vele websites verschillende websites waarop je, je kan aanmelden
+Er zijn daarom vele websites verschillende websites waarop je, je kan aanmelden. Om er een paar te noemen:
 
-![Mastodon-kpop-fans](/mastodonuitgelegd/images/image024.jpg) voor k-pop fans
+- mastodon.nl (Een algemene Mastodon site)
+- nwb.social (Een Mastodon site over West-Brabant)
+- mastodon.vlaanderen ( Een vlaams/belgische Mastodon site )
 
+Een groot misverstand is dat je, je eigen persee moet aanmelden bij mastodon.social of dat een mastodon website op .social moet eindigen.
+Je kan namelijk iedereen vanaf elke Mastodon website volgen. Als je een account op mastodon.nl hebt kan je even goed iemand volgen die een account op mastodon.vlaanderen heeft.
+
+---
+
+In een notendop is dit Mastodon. Het lijkt op Twitter maar het is net even anders.
+Omdat het uit aparte websites bestaat die op zich zelf staand zijn. Maar waar bij je even goed de mogelijkheid hebt om mensen die een account op een andere website hebben te volgen en berichten te sturen. Daarnaast moet je niet vergeten dat nagenoeg elke server leeft op donaties en geheel vrijwillig wordt onderhouden. Er zit dus geen groot bedrijf achter zoals bij Twitter.
