@@ -26,3 +26,9 @@ Laat mij, aan de hand van onderstaande uitleg, vertellen wat dit netwerk is en h
 
 ---
 
+Dat is Mastodon. In plaats van een grote website, bestaat het uit een hoop kleinere websites, verbonden via een hoop magische internet-verbindingen.
+![Mastodon-image](/mastodonuitgelegd/images/image005.png)
+
+Those magic internet pipes allow each Mastodon website to know what people are saying on all the other Mastodon websites.
+Nobody owns Mastodon. Each website is run independently of the others, but they all mostly get along.
+Most Mastodon websites rely on donations to pay the bills. That way, no single person or entity owns Mastodon.
