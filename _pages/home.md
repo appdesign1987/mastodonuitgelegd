@@ -4,26 +4,25 @@ title: Home
 permalink: /
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+De december maand geeft ons de gelegenheid om met vrienden en familie te praten over ingewikkelde zaken. Of over dingen die je bezig houdt.
+Dit jaar is natuurlijk de vraag: “wat is Mastodon?”.
+Hier is een snelle uitleg die je kan gebruiken om het aan je ooms/tantes en moeder uit te leggen:
+________________________________________
 
-## Features
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Dit is Twitter. 
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Een hoop mensen gebruiken het om met elkaar te praten! 
+Het is een grote website, En de mensen die het bouwen betalen een hoop geld om het draaiend te houden. 
+Twitter gebruikt inkomsten uit reclame om het geld, wat gebruikt wordt om Twitter draaiend te houden, bij elkaar te krijgen.
+
+
+/index_bestanden/image003.png
+
+Recentelijk zijn er een aantal dingen mis gegaan bij Twitter — masa-onstlagen, publieke vernederingen, etc.
+Verschillende mensen zijn daardoor verhuisd naar een ander netwerk. Een netwerk waar de sfeer vriendelijker en gemoedelijker is dan je wellicht gewend bent.
+Laat mij, aan de hand van onderstaande uitleg, vertellen wat dit netwerk is en hoe jij hier ook op kan komen.
+
+________________________________________
+
