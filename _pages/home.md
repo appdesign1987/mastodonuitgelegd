@@ -63,11 +63,13 @@ Er zijn daarom vele websites verschillende websites waarop je, je kan aanmelden.
 - nwb.social (Een Mastodon site over West-Brabant)
 - mastodon.vlaanderen ( Een vlaams/belgische Mastodon site )
 
-Een groot misverstand is dat je, je eigen persee moet aanmelden bij mastodon.social of dat een mastodon website op .social moet eindigen.
+Een groot misverstand is dat je, je zelf persee moet aanmelden bij mastodon.social of dat een mastodon website op .social moet eindigen.
 Je kan namelijk iedereen vanaf elke Mastodon website volgen. Als je een account op mastodon.nl hebt kan je even goed iemand volgen die een account op mastodon.vlaanderen heeft.
 
 ---
 <p><br>
 </p>
 In een notendop is dit Mastodon. Het lijkt op Twitter maar het is net even anders.
-Omdat het uit aparte websites bestaat die op zich zelf staand zijn. Maar waar bij je even goed de mogelijkheid hebt om mensen die een account op een andere website hebben te volgen en berichten te sturen. Daarnaast moet je niet vergeten dat nagenoeg elke server leeft op donaties en geheel vrijwillig wordt onderhouden. Er zit dus geen groot bedrijf achter zoals bij Twitter.
+<p>Omdat het uit aparte websites bestaat die op zich zelf staand zijn. 
+</p>
+Maar waar bij je even goed de mogelijkheid hebt om mensen die een account op een andere website hebben te volgen en berichten te sturen. Daarnaast moet je niet vergeten dat nagenoeg elke server leeft op donaties en geheel vrijwillig wordt onderhouden. Er zit dus geen groot bedrijf achter zoals bij Twitter.
