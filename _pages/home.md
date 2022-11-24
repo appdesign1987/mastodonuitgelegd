@@ -25,7 +25,7 @@ Het is een grote website, En de mensen die het bouwen betalen een hoop geld om h
 Twitter gebruikt inkomsten uit reclame om het geld, wat gebruikt wordt om Twitter draaiend te houden, bij elkaar te krijgen.
 
 
-![Twitter-image](/mastodonuitgelegd/images/image003.png)
+![Twitter-image](/images/image003.png)
 
 Recentelijk zijn er een aantal dingen mis gegaan bij Twitter — massa-onstlagen, publieke vernederingen, etc.
 Verschillende mensen zijn daardoor verhuisd naar een andere plek. Een plek waar de sfeer vriendelijker en gemoedelijker is dan je wellicht gewend bent.
@@ -37,7 +37,7 @@ Laat mij, aan de hand van onderstaande uitleg, vertellen wat deze plek is en hoe
 ###### Dit is Mastodon. 
 
 In plaats van een grote website, bestaat het uit een groot aantal kleinere websites, verbonden via slimme internet-verbindingen.
-![Mastodon-image](/mastodonuitgelegd/images/image005.png)
+![Mastodon-image](/images/image005.png)
 
 Die slimme intenet-verbindingen zorgen ervoor dat je vanaf elke Mastodon website contact kan maken met mensen op een andere Mastodon website.
 Omdat niemand Mastodon bezit draait elke website onafhankelijk van de ander, en dat gaat vaak allemaal goed.
@@ -47,14 +47,14 @@ Daarnaast draaien de meest Mastodon websites op basis van donaties, ze zorgen al
 
 Toch zijn er een aantal Mastodon websites die zich zelf hebben afgesneden van het algehele Mastodon netwerk.
 Over deze websites wordt doorgaans niet gesproken. 
-![afgesneden-Mastodon-websites-image](/mastodonuitgelegd/images/image022.jpg)
+![afgesneden-Mastodon-websites-image](/images/image022.jpg)
 
 ---
 <p><br>
 </p>
 De grootste uitdaging doorgaans met Mastodon is een website vinden om je aan te melden.
 Als je op Twitter wilt aanmelden ga je natuurlijk gewoon naar twitter.com
-![Twitter-com](/mastodonuitgelegd/images/image023.jpg)
+![Twitter-com](/images/image023.jpg)
 
 Maar voor Mastodon is er niet een algehele website waarop je, je kan aanmelden. Dit komt opnieuw omdat alle Mastodon websites op zich zelf staan.
 Er zijn daarom vele websites verschillende websites waarop je, je kan aanmelden. Om er een paar te noemen:
