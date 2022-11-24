@@ -20,8 +20,8 @@ Hier is een snelle uitleg die je kan gebruiken om het aan je ooms/tantes en moed
 
 ###### Dit is Twitter. 
 
-Een hoop mensen gebruiken het om met elkaar te praten! 
-Het is een grote website, En de mensen die het bouwen betalen een hoop geld om het draaiend te houden. 
+Veel mensen gebruiken het om met elkaar te praten! 
+Het is een grote website, En de mensen die het bouwen betalen veel geld om het draaiend te houden. 
 Twitter gebruikt inkomsten uit reclame om het geld, wat gebruikt wordt om Twitter draaiend te houden, bij elkaar te krijgen.
 
 
@@ -39,13 +39,13 @@ Laat mij, aan de hand van onderstaande uitleg, vertellen wat deze plek is en hoe
 In plaats van een grote website, bestaat het uit een groot aantal kleinere websites, verbonden via slimme internet-verbindingen.
 ![Mastodon-image](/images/image005.png)
 
-Die slimme intenet-verbindingen zorgen ervoor dat je vanaf elke Mastodon website contact kan maken met mensen op een andere Mastodon website.
-Omdat niemand Mastodon bezit draait elke website onafhankelijk van de ander, en dat gaat vaak allemaal goed.
+Die slimme internet-verbindingen zorgen ervoor dat je vanaf elke Mastodon website contact kan maken met mensen op een andere Mastodon website.
+Omdat niemand Mastodon bezit draait elke website onafhankelijk van de ander.
 Daarnaast draaien de meest Mastodon websites op basis van donaties, ze zorgen alle leden van een Mastodon website ervoor dat deze kan bestaan. Op deze manier, bezit niemand de website en heeft iedereen het voor het zeggen. Dit gaat 9 van de 10 keer ook helemaal goed.
 
 ---
 
-Toch zijn er een aantal Mastodon websites die zich zelf hebben afgesneden van het algehele Mastodon netwerk.
+Toch zijn er een aantal Mastodon websites die zich zelf hebben afgesneden van de andere Mastodon websites.
 Over deze websites wordt doorgaans niet gesproken. 
 ![afgesneden-Mastodon-websites-image](/images/image022.jpg)
 
