@@ -21,7 +21,7 @@ Hier is een snelle uitleg die je kan gebruiken om het aan je ooms/tantes en moed
 ###### Dit is Twitter. 
 
 Veel mensen gebruiken het om met elkaar te praten! 
-Het is een grote website. Om Twitter draaiend te houden gebruikt wordt er onderanderen reclame op Twitter getoond in de vorm van advertenties.
+Het is een grote website. Om Twitter draaiend te houden wordt er reclame op Twitter getoond in de vorm van advertenties.
 Op die manier kan Twitter geld bij elkaar halen om de website draaiend te houden.
 
 ![Twitter-image](/images/image003.png)
